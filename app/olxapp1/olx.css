@@ -1,0 +1,21 @@
+
+.card{
+    
+    width: 250px;
+    height: 250px;
+    border: 2px solid saddlebrown;
+    margin: 10px;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    /* justify-content: space-around; */
+}
+.card img{
+    max-width: 207px;
+}
+.card .price{
+    text-align: left;
+    padding: 20px;
+    font-size: 25px;
+}
